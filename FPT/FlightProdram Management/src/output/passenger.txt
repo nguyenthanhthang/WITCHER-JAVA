@@ -1,0 +1,11 @@
+P000004, Lan Anh, 123456789, 18, Lung ha city, F0004, F0004
+P000006, Lan Anh, 123456789, 18, Lung ha city, F0006, F0006
+P000007, Lan Anh, 123456789, 18, Lung ha city, F0007, F0007
+P000009, Lan Anh, 123456789, 18, Lung ha city, F0009, F0009
+P000010, Tuan, 123456789, 20, Thu Duc, F0004, null
+P000001, Lan Anh, 123456789, 18, Lung ha city, F0002, C2
+P000003, Lan Anh, 123456789, 18, Lung ha city, F0003, B2
+P000000, Hien, 123456789, 90, Thu Duc, F0000, A1
+P000005, Lan Anh, 123456789, 18, Lung ha city, F0005, F4
+P000008, Lan Anh, 123456789, 18, Lung ha city, F0008, E3
+P000002, Lan Anh, 123456789, 18, Lung ha city, F0000, A2
